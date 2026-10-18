@@ -2,6 +2,7 @@
   {
     "id": "ISLP23-C02-Q08",
     "kind": "practical",
+    "content_state": "authored_question",
     "notebook": "ISLP23-C02-Q08.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -18,6 +19,7 @@
   {
     "id": "ISLP23-C02-Q09",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C02-Q09.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -32,6 +34,7 @@
   {
     "id": "ISLP23-C02-Q10",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C02-Q10.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -49,6 +52,7 @@
   {
     "id": "ISLP23-C03-Q08",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C03-Q08.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -60,6 +64,7 @@
   {
     "id": "ISLP23-C03-Q09",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C03-Q09.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -74,6 +79,7 @@
   {
     "id": "ISLP23-C03-Q10",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C03-Q10.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -90,6 +96,7 @@
   {
     "id": "ISLP23-C03-Q11",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C03-Q11.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -104,6 +111,7 @@
   {
     "id": "ISLP23-C03-Q12",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C03-Q12.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -115,6 +123,7 @@
   {
     "id": "ISLP23-C03-Q13",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C03-Q13.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -133,6 +142,7 @@
   {
     "id": "ISLP23-C03-Q14",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C03-Q14.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -148,6 +158,7 @@
   {
     "id": "ISLP23-C03-Q15",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C03-Q15.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -160,6 +171,7 @@
   {
     "id": "ISLP23-C04-Q13",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C04-Q13.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -178,6 +190,7 @@
   {
     "id": "ISLP23-C04-Q14",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C04-Q14.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -194,6 +207,7 @@
   {
     "id": "ISLP23-C04-Q15",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C04-Q15.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -208,6 +222,7 @@
   {
     "id": "ISLP23-C04-Q16",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C04-Q16.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -217,6 +232,7 @@
   {
     "id": "ISLP23-C05-Q05",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C05-Q05.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -229,6 +245,7 @@
   {
     "id": "ISLP23-C05-Q06",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C05-Q06.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -241,6 +258,7 @@
   {
     "id": "ISLP23-C05-Q07",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C05-Q07.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -254,6 +272,7 @@
   {
     "id": "ISLP23-C05-Q08",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C05-Q08.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -268,6 +287,7 @@
   {
     "id": "ISLP23-C05-Q09",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C05-Q09.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -284,6 +304,7 @@
   {
     "id": "ISLP23-C06-Q08",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C06-Q08.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -298,6 +319,7 @@
   {
     "id": "ISLP23-C06-Q09",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C06-Q09.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -313,6 +335,7 @@
   {
     "id": "ISLP23-C06-Q10",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C06-Q10.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -328,6 +351,7 @@
   {
     "id": "ISLP23-C06-Q11",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C06-Q11.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -339,6 +363,7 @@
   {
     "id": "ISLP23-C07-Q06",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C07-Q06.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -349,6 +374,7 @@
   {
     "id": "ISLP23-C07-Q07",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C07-Q07.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -358,6 +384,7 @@
   {
     "id": "ISLP23-C07-Q08",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C07-Q08.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -367,6 +394,7 @@
   {
     "id": "ISLP23-C07-Q09",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C07-Q09.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -381,6 +409,7 @@
   {
     "id": "ISLP23-C07-Q10",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C07-Q10.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -393,6 +422,7 @@
   {
     "id": "ISLP23-C07-Q11",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C07-Q11.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -409,6 +439,7 @@
   {
     "id": "ISLP23-C07-Q12",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C07-Q12.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -418,6 +449,7 @@
   {
     "id": "ISLP23-C08-Q07",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C08-Q07.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -427,6 +459,7 @@
   {
     "id": "ISLP23-C08-Q08",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C08-Q08.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -441,6 +474,7 @@
   {
     "id": "ISLP23-C08-Q09",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C08-Q09.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -460,6 +494,7 @@
   {
     "id": "ISLP23-C08-Q10",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C08-Q10.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -475,6 +510,7 @@
   {
     "id": "ISLP23-C08-Q11",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C08-Q11.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -486,6 +522,7 @@
   {
     "id": "ISLP23-C08-Q12",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C08-Q12.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -495,6 +532,7 @@
   {
     "id": "ISLP23-C09-Q04",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C09-Q04.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -504,6 +542,7 @@
   {
     "id": "ISLP23-C09-Q05",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C09-Q05.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -521,6 +560,7 @@
   {
     "id": "ISLP23-C09-Q06",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C09-Q06.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -533,6 +573,7 @@
   {
     "id": "ISLP23-C09-Q07",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C09-Q07.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -545,6 +586,7 @@
   {
     "id": "ISLP23-C09-Q08",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C09-Q08.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -561,6 +603,7 @@
   {
     "id": "ISLP23-C10-Q06",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C10-Q06.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -573,6 +616,7 @@
   {
     "id": "ISLP23-C10-Q07",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C10-Q07.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -582,6 +626,7 @@
   {
     "id": "ISLP23-C10-Q08",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C10-Q08.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -591,6 +636,7 @@
   {
     "id": "ISLP23-C10-Q09",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C10-Q09.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -600,6 +646,7 @@
   {
     "id": "ISLP23-C10-Q10",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C10-Q10.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -609,6 +656,7 @@
   {
     "id": "ISLP23-C10-Q11",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C10-Q11.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -618,6 +666,7 @@
   {
     "id": "ISLP23-C10-Q12",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C10-Q12.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -627,6 +676,7 @@
   {
     "id": "ISLP23-C10-Q13",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C10-Q13.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -636,6 +686,7 @@
   {
     "id": "ISLP23-C11-Q10",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C11-Q10.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -648,6 +699,7 @@
   {
     "id": "ISLP23-C11-Q11",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C11-Q11.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -659,6 +711,7 @@
   {
     "id": "ISLP23-C12-Q07",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C12-Q07.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -668,6 +721,7 @@
   {
     "id": "ISLP23-C12-Q08",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C12-Q08.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -678,6 +732,7 @@
   {
     "id": "ISLP23-C12-Q09",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C12-Q09.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -690,6 +745,7 @@
   {
     "id": "ISLP23-C12-Q10",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C12-Q10.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -705,6 +761,7 @@
   {
     "id": "ISLP23-C12-Q11",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C12-Q11.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -714,6 +771,7 @@
   {
     "id": "ISLP23-C12-Q12",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C12-Q12.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -723,6 +781,7 @@
   {
     "id": "ISLP23-C12-Q13",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C12-Q13.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -734,6 +793,7 @@
   {
     "id": "ISLP23-C13-Q07",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C13-Q07.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -746,6 +806,7 @@
   {
     "id": "ISLP23-C13-Q08",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C13-Q08.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -760,6 +821,7 @@
   {
     "id": "CS229SEE-PS1-Q2",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "CS229SEE-PS1-Q2.ipynb",
     "source_url": "https://see.stanford.edu/materials/aimlcs229/problemset1.pdf",
     "subparts": [
@@ -770,6 +832,7 @@
   {
     "id": "CS229SEE-PS2-Q4",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "CS229SEE-PS2-Q4.ipynb",
     "source_url": "https://see.stanford.edu/materials/aimlcs229/problemset2.pdf",
     "subparts": [
@@ -780,6 +843,7 @@
   {
     "id": "CS229SEE-PS3-Q4",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "CS229SEE-PS3-Q4.ipynb",
     "source_url": "https://see.stanford.edu/materials/aimlcs229/problemset3.pdf",
     "subparts": [
@@ -789,6 +853,7 @@
   {
     "id": "CS229SEE-PS4-Q3",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "CS229SEE-PS4-Q3.ipynb",
     "source_url": "https://see.stanford.edu/materials/aimlcs229/problemset4.pdf",
     "subparts": [
@@ -798,6 +863,7 @@
   {
     "id": "CS229SEE-PS4-Q5",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "CS229SEE-PS4-Q5.ipynb",
     "source_url": "https://see.stanford.edu/materials/aimlcs229/problemset4.pdf",
     "subparts": [
@@ -807,6 +873,7 @@
   {
     "id": "KHANGICH-Q086",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "KHANGICH-Q086.ipynb",
     "source_url": "https://github.com/khangich/machine-learning-interview/blob/master/questions.md#L164",
     "subparts": [
@@ -816,6 +883,7 @@
   {
     "id": "KHANGICH-Q087",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "KHANGICH-Q087.ipynb",
     "source_url": "https://github.com/khangich/machine-learning-interview/blob/master/questions.md#L165",
     "subparts": [
@@ -825,6 +893,7 @@
   {
     "id": "KHANGICH-Q088",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "KHANGICH-Q088.ipynb",
     "source_url": "https://github.com/khangich/machine-learning-interview/blob/master/questions.md#L167",
     "subparts": [
@@ -834,6 +903,7 @@
   {
     "id": "KHANGICH-Q089",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "KHANGICH-Q089.ipynb",
     "source_url": "https://github.com/khangich/machine-learning-interview/blob/master/questions.md#L168",
     "subparts": [
@@ -843,6 +913,7 @@
   {
     "id": "KHANGICH-Q091",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "KHANGICH-Q091.ipynb",
     "source_url": "https://github.com/khangich/machine-learning-interview/blob/master/questions.md#L171",
     "subparts": [
@@ -852,6 +923,7 @@
   {
     "id": "KHANGICH-Q092",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "KHANGICH-Q092.ipynb",
     "source_url": "https://github.com/khangich/machine-learning-interview/blob/master/questions.md#L172",
     "subparts": [
@@ -861,6 +933,7 @@
   {
     "id": "KHANGICH-Q093",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "KHANGICH-Q093.ipynb",
     "source_url": "https://github.com/khangich/machine-learning-interview/blob/master/questions.md#L173",
     "subparts": [
@@ -870,6 +943,7 @@
   {
     "id": "KHANGICH-Q094",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "KHANGICH-Q094.ipynb",
     "source_url": "https://github.com/khangich/machine-learning-interview/blob/master/questions.md#L175",
     "subparts": [
@@ -879,6 +953,7 @@
   {
     "id": "KHANGICH-Q095",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "KHANGICH-Q095.ipynb",
     "source_url": "https://github.com/khangich/machine-learning-interview/blob/master/questions.md#L176",
     "subparts": [
@@ -888,6 +963,7 @@
   {
     "id": "KHANGICH-Q096",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "KHANGICH-Q096.ipynb",
     "source_url": "https://github.com/khangich/machine-learning-interview/blob/master/questions.md#L177",
     "subparts": [
@@ -897,6 +973,7 @@
   {
     "id": "KHANGICH-Q098",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "KHANGICH-Q098.ipynb",
     "source_url": "https://github.com/khangich/machine-learning-interview/blob/master/questions.md#L179",
     "subparts": [
@@ -906,6 +983,7 @@
   {
     "id": "KHANGICH-Q099",
     "kind": "practical",
+    "content_state": "answer_workspace",
     "notebook": "KHANGICH-Q099.ipynb",
     "source_url": "https://github.com/khangich/machine-learning-interview/blob/master/questions.md#L181",
     "subparts": [
@@ -915,6 +993,7 @@
   {
     "id": "ISLP23-C05-Q02",
     "kind": "mixed",
+    "content_state": "answer_workspace",
     "notebook": "ISLP23-C05-Q02.ipynb",
     "source_url": "https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view",
     "subparts": [
@@ -924,6 +1003,7 @@
   {
     "id": "CS229SEE-PS3-Q3",
     "kind": "mixed",
+    "content_state": "answer_workspace",
     "notebook": "CS229SEE-PS3-Q3.ipynb",
     "source_url": "https://see.stanford.edu/materials/aimlcs229/problemset3.pdf",
     "subparts": [
